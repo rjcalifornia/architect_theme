@@ -1,16 +1,11 @@
-# gentelella_flutter
+<img src="images/architect_template_screen.png">
 
-A new Flutter project.
+<h1>Architect Theme for Flutter</h1>
+Architect Theme is a free semi-responsive admin template specifically built for Flutter Web Apps. 
 
-## Getting Started
+The template has an attractive and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
 
-This project is a starting point for a Flutter application.
+It is an excellent fit to build admin panels,  project management systems, or any App Administration App
 
-A few resources to get you started if this is your first Flutter project:
+This template is specifically designed for Flutter Web, not suited for mobile devices(except tablets on landscape mode). The reason for that is because there's almost no documentation for Flutter Web, and even worst packages are being labeled as "Web" but actually make your web apps crash and burn. This template will be unusuable in mobile devices, and that is on purpose.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
