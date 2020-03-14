@@ -4,14 +4,14 @@ import 'package:architect_theme/widgets/screens/add_users.dart';
 import 'package:architect_theme/widgets/screens/principal.dart';
 import 'package:architect_theme/widgets/ui/dashboard.dart';
 
-class GentelellaAdmin extends StatelessWidget {
+class ArchitectUIAdmin extends StatelessWidget {
  
 
   @override
   Widget build(BuildContext context) {
    return MaterialApp(
     
-       title: 'Gentelella Flutter Template',
+       title: 'ArchitectUI Template',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: 'Quicksand',
